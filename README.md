@@ -34,4 +34,4 @@ Rather than collecting generic "copy-paste prompt lists," this repository docume
 
 > *"The magic of AI disappears the moment you realize it isn't a digital librarian looking up facts; it is a hyper-fast calculator playing a trillion rounds of 'guess the next word'."*
 
-**[ Connect with me on LinkedIn ]( PUT_YOUR_LINKEDIN_PROFILE_URL_HERE )**
+**[ Connect with me on LinkedIn ](https://www.linkedin.com/in/mansi-gautam-7739a31b5/)**
